@@ -8,6 +8,8 @@ I'm a { backend, frontend } web developer with Laravel and VueJS.
 
 - [Website](https://eduardonunesdelima.com.br) 💻 - Up.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Endl13593&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Endl13593&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <a href="https://github.com/Endl13593">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Endl13593&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Endl13593&layout=compact&langs_count=16&theme=dracula"/>
+<div>
