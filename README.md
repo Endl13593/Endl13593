@@ -4,9 +4,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-nunes-0b541915b/)](https://www.linkedin.com/in/eduardo-nunes-0b541915b/)
 
 ### About me
-I'm a { backend, frontend } web developer with Laravel and VueJS.
+I'm a { backend, frontend } web developer with TALL Stack (Tailwind, Alpine, Laravel, Livewire).
 
-- [Website](https://eduardonunesdelima.com.br) 💻 - Up.
+- [Website](https://eduardonunesdelima.dev) 💻 - Up.
 
 <div>
   <a href="https://github.com/Endl13593">
